@@ -1,5 +1,7 @@
 # Android Drop Sync - Project Context
 
+> **Note:** This project was built with the assistance of **Gemini CLI**, an interactive AI agent.
+
 ## Architecture
 This is a desktop application built with **Tauri** (Rust backend) and **Svelte** (TypeScript frontend). It is designed to facilitate file transfers to Android handheld game consoles via ADB.
 
