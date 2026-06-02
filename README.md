@@ -2,7 +2,7 @@
 
 A lightweight, fast Mac desktop application designed to easily transfer files (like ROMs) and install APKs to Android handheld consoles via USB.
 
-> **Note:** This project was developed with the assistance of **Gemini CLI**.
+> **Note:** This project was developed with the assistance of **Gemini CLI**. This may be a no-go for some users, and that's absolutely fine. Generative AI is bad for the vast majority of use cases. I have utilised it here for something I've not been happy with in existing apps. However, this is still an example of using AI in coding. 
 
 ## Key Features
 - **Junk Filtering:** Automatically strips macOS hidden files (`.DS_Store`, `._*`, `.Trashes`) during transfer.
